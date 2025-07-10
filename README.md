@@ -1,1 +1,1 @@
-# salary_prediction_ml
+Salary prediction using ML & Flask
