@@ -1,6 +1,7 @@
 Salary Prediction Web App
 
-Problem
+Problem:
+
 It's hard for both job searchers and recruiters to figure out what a reasonable compensation is for a job these days, depending on things like education, experience, and talents.  Estimating by hand can be skewed, unreliable, or reliant on guessing instead of data.
 
 We used Flask to make a web app that uses machine learning to guess how much money someone will make based on
