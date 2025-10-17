@@ -43,9 +43,13 @@ Job seekers and recruiters often struggle to estimate reasonable salaries consid
 ## Project Structure
 
 ├── notebooks/ # EDA and model training notebooks
+
 ├── data/ # Raw and cleaned datasets
+
 ├── models/ # Saved ML model files (.pkl)
+
 ├── app/ # Flask app source code and templates
+
 ├── docs/ # Documentation and presentations
 
 ---
